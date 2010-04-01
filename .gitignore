@@ -1,0 +1,7 @@
+bin
+dist
+include
+lib
+MANIFEST
+CLIArgs.egg-info
+*.pyc
