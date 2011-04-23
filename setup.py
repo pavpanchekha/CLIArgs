@@ -9,7 +9,7 @@ setup(
     license="LICENSE.txt",
     url="http://pypi.python.org/pypi/CLIArgs/",
     description="Absolutely trivial command line arguments",
-    long_description=open("README.txt").read(),
+    long_description=open("README.rst").read(),
 
     classifiers=[
         "Development Status :: 4 - Beta",
