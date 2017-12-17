@@ -1,6 +1,8 @@
 CLIArgs: Absolutely Trivial Command-line Arguments
 ==================================================
 
+**Warning**: This code is deprecated and will not be maintained.
+
 Doesn't parsing command line arguments suck? At best, you use ``optparse``, and
 then if that doesn't work you hand-code it. Or, you use ``getargs``, which
 requires writing your own loops. Don't you wish for something a little bit...
